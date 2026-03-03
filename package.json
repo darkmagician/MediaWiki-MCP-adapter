@@ -24,10 +24,12 @@
   "license": "LGPL-3.0-or-later",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.8.0",
+    "node-fetch": "^3.3.2",
     "zod": "^3.24.2"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
+    "@types/node-fetch": "^2.6.13",
     "typescript": "^5.8.3"
   }
 }
